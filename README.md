@@ -19,3 +19,17 @@ python -m pip install -r requirements.txt
 ```bash
 python main/bot.py
 ```
+
+## Illustrations
+
+- Utilisation de la commande /topics
+
+![Utilisation de /topics](img/topics_1.png)
+
+- Affichage d'un topic
+
+![Affichage du topic](img/topics_2.png)
+
+- Partage du topic dans un salon
+
+![Partage du topic](img/topics_3.png)
