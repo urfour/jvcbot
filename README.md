@@ -4,7 +4,7 @@ Bot Discord permettant d'interagir avec les topics du forum Blabla 18 - 25 ans
 
 ## Pré-requis
 
-- Python 3.9.13 ou plus
+- Python 3.9.13 (de préférence) ou plus
 - Avoir créé une application sur le [Discord Developer Portal](https://discord.com/developers/applications) et récupéré le token associé
 
 ## Installation
