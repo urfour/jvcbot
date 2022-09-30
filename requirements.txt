@@ -1,0 +1,6 @@
+nextcord
+python-dotenv
+pandas
+requests
+bs4
+unidecode
